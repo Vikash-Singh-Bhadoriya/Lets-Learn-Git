@@ -1,4 +1,4 @@
 Hii
-the Difference of 9 from 10 is
+the Difference of 10 - 9 is :-
 10 - 9 = 1
 Byee
